@@ -1,4 +1,4 @@
 # Front-End-CSS
 CSS Master
 
-From CSS Ground tyo React developing 
+From CSS Ground to React developing 
